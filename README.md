@@ -1,7 +1,7 @@
-aws_ec2_no_emacs_dotfiles.git
+dotfiles.git
 =============================
-Clone and run this on a new EC2 instance running Ubuntu 12.04.2 LTS to
-configure your `bash` development environment as follows:
+This repository configures various dotfiles for development.
+Execute the following commands:
 
 ```sh
 cd $HOME
